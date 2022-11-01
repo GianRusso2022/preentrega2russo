@@ -22,6 +22,7 @@ const AppContainer = () => {
                 return (
                     <Item
                         key={producto.id}
+                        id={producto.id}
                         precio={producto.precio}
                         imagen={producto.imagen}
                         categoria={producto.categoria}

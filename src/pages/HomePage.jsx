@@ -3,11 +3,10 @@ import { UserLayout } from "../components/UserLayout"
 
 export const HomePage = () => {
   return (
-      <UserLayout>
 
-        <AppContainer />
-      
-      </UserLayout>
-    
+
+    <AppContainer />
+
+
   )
 }
