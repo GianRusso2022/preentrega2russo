@@ -8,7 +8,7 @@ const Item = (props) =>{
         <div className="card-body d-flex justify-content-between">
             <span>{props.titulo}</span>
             <span>${props.precio}</span>
-            <button className="btn btn-dark ">Comprar</button>
+            <button className="btn btn-dark ">Agregar al carrito</button>
         </div>
     </div>
 </div>
