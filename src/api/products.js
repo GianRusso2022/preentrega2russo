@@ -34,6 +34,34 @@ const products = [
         "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/068/331/products/images11-1979a679f190e3b17615429947658175-480-0.jpg",
         "categoria": "collares",
       },
+      {
+        "precio": 1200,
+        "id": 5,
+        "title": "Arnes Camuflado Azul",
+        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/068/331/products/camuflado-blue2-f5c87572f2cebf797f15914692047559-480-01-696f67e7286096fce615984671248846-480-0.png",
+        "categoria": "arnes",
+      },
+      {
+        "precio": 1200,
+        "id": 6,
+        "title": "Arnes princes rosa",
+        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/068/331/products/magic-frente1-9e326ac0049c3b922c16358484516182-640-011-030a17146d012b656416570481371495-480-0.png",
+        "categoria": "arnes",
+      },
+      {
+        "precio": 1200,
+        "id": 7,
+        "title": "Arnes gamer oscuro",
+        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/068/331/products/gamer-frente21-900ca6916c44c32d1916358481507112-640-01-7c4d777308a2d9227016570470298033-480-0.png",
+        "categoria": "arnes",
+      },
+      {
+        "precio": 1200,
+        "id": 8,
+        "title": "Arnes Emoticono",
+        "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/068/331/products/camuflado-blue2-f5c87572f2cebf797f15914692047559-480-01-696f67e7286096fce615984671248846-480-0.png",
+        "categoria": "arnes",
+      },
       
   ]
 
